@@ -1,0 +1,10 @@
+body {background-color:MediumPurple;}
+	
+h1 {
+		text-align: center;
+		
+		color: yellow;
+		
+		background: linear-gradient(110deg, #FF0000 70%, yellow 50%);
+	
+   }

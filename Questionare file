@@ -1,0 +1,47 @@
+<h1>SeeLeMonde</h1>
+<div id="Info input">
+	<label>What is your Gender?
+		<select id="Gender">
+			<option value="Gender">Male</option>
+			<option value="Gender">Female</option>
+			<option value="Gender">Other</option>
+		<select id="Gender">
+	<br />
+	<br />
+    <div id="formArea">
+        <label>Lets us know what gender you identify with if you are not male or female?
+          <input type="text">          
+  <br />
+	<br />
+	   <div id="formArea">
+        <label>Date of birth
+          <input type="text"/>   
+		<br />
+		<br />
+	<label>Where are you from?
+		<select id="Where are You From">
+			<option value="Buffalo">Buffalo</option>
+			<option value="Long Island">Long Island</option>
+			<option value="City">City</option>
+			<option value="Out of State">Out of state</option>
+		</select>
+	<br />
+	<br />
+	<label>What are you looking for?
+		<select id="What are you looking for?">
+			<option value="Task">I want to make friends</option>
+			<option value="Task">I want to find a signifigant other</option>
+			<option value="Task">Buisness</option>
+			<option value="Task">Other</option>
+    </select>
+    <br />
+    <br />
+   <form>
+       <input type="button" value="Next" onclick="window.location.href='http://www.hyperlinkcode.com/button-links.php'" />
+   </form>
+body {background-color:MediumPurple;}
+	h1 {
+		text-align: center;
+		color: yellow;
+		background: linear-gradient(110deg, #FF0000 70%, yellow 50%);
+	}

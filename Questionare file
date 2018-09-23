@@ -14,7 +14,7 @@
   <br />
 	<br />
 	   <div id="formArea">
-        <label>Date of birth
+        <label>Date of Birth
           <input type="text"/>   
 		<br />
 		<br />
@@ -30,8 +30,8 @@
 	<label>What are you looking for?
 		<select id="What are you looking for?">
 			<option value="Task">I want to make friends</option>
-			<option value="Task">I want to find a signifigant other</option>
-			<option value="Task">Buisness</option>
+			<option value="Task">I want to find a significant other</option>
+			<option value="Task">Business</option>
 			<option value="Task">Other</option>
     </select>
     <br />

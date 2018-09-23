@@ -1,4 +1,16 @@
 <h1>SeeLeMonde</h1>
+<!DOCTYPE html>
+
+
+<html>
+
+<head>
+	
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
 <div id="Info input">
 	<label>What is your Gender?
 		<select id="Gender">
@@ -39,15 +51,5 @@
    <form>
        <input type="button" value="Next" onclick="window.location.href='http://www.hyperlinkcode.com/button-links.php'" />
    </form>
-body {background-color:MediumPurple;}
-	h1 {
-		text-align: center;
-		color: yellow;
-		background: linear-gradient(110deg, #FF0000 75%, yellow 45%);
-    font-style: Oblique;
-	}
-   div {
-     text-align: center;
-    font-style: Oblique;
-    font-size:100%;
-   }
+</body>
+</html>

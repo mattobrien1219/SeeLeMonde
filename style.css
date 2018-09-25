@@ -1,4 +1,5 @@
 body {background-color:MediumPurple;}
+
 	h1 {
 		text-align: center;
 		color: yellow;
@@ -9,4 +10,5 @@ body {background-color:MediumPurple;}
      text-align: center;
     font-style: Oblique;
     font-size:100%;
+	background-color:white;
    }

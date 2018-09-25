@@ -1,0 +1,18 @@
+body {background-color:MediumPurple;}
+
+	h1 {
+		text-align: center;
+		color: yellow;
+		background: linear-gradient(110deg, #FF0000 75%, yellow 45%);
+    font-style: Oblique;
+	}
+   div {
+     text-align: center;
+    font-style: Oblique;
+    font-size:100%;
+	background-color:white;
+ margin-right: 140px;
+    margin-left: 140px;
+padding-top: 10px;
+padding-bottom: 10px;
+   }

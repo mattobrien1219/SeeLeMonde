@@ -6,10 +6,8 @@
 <head>
 	
 <link rel="stylesheet" href="style.css">
-
+<script src="alert.js"></script>
 </head>
-
-
 <h1 style="font-size:350%;">SeeLeMonde</h1>
 <body>
 <div id="Info input">
@@ -50,7 +48,7 @@
     <br />
     <br />
    <form>
-       <input type="button" value="Next" onclick="window.location.href='http://www.hyperlinkcode.com/button-links.php'" />
-   </form>
+       <input type="button" value="Next" onclick="window.location.href='http://www.hyperlinkcode.com/button-links.php'" />   
+	</form>
 </body>
 </html>

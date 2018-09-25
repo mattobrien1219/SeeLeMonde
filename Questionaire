@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 
 <html>
-<head>
-	<link rel="stylesheet" href="style.css">
-</head>
 <body>
 <h1>SeeLeMonde</h1>
 <div id="Info input">

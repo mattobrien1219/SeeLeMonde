@@ -7,12 +7,21 @@ body {background-color:MediumPurple;}
     font-style: Oblique;
 	}
    div {
+	position: absolute;
+	width:800px;
      text-align: center;
     font-style: Oblique;
     font-size:100%;
 	background-color:white;
+<<<<<<< HEAD
+	top: 50%;
+	left: 50%;
+   	
+	}
+=======
     margin-right: 140px;
     margin-left: 140px;
 padding-top: 50px;
 padding-bottom: 50px;
    }
+>>>>>>> 3534471ff079f9d8f4b92fb8e3c8881c12e182d9

@@ -1,0 +1,11 @@
+
+body {background-color:MediumPurple;}
+	ul {
+  display: inline-block;
+   vertical-align: top;
+     
+text-align: center;
+		color: yellow;
+		background: linear-gradient(110deg, #FF0000 110%, yellow 0%);
+  
+
